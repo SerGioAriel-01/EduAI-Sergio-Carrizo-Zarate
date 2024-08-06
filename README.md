@@ -11,15 +11,12 @@ La solución utiliza modelos de IA para generar explicaciones detalladas (GPT-4)
 
 ## Mejoras Basadas en Recomendaciones
 1. Revisión y Mejora de la Primera Entrega
-Revisa la documentación de tu primera entrega y actualízala según los conocimientos adquiridos y la retroalimentación recibida. Asegúrate de:
-
-Refinar la descripción del problema y la solución.
-Incorporar técnicas y métodos aprendidos en las últimas semanas.
-Mejorar la claridad y precisión en la presentación de la propuesta.
+Se refino la descripción del problema y la solución.
+Se incorporo técnicas y métodos aprendidos en las últimas semanas.
+Se mejoro la claridad y precisión en la presentación de la propuesta.
 
 2. Optimización de Consultas a la API
 Para reducir el costo y optimizar el uso de la API:
-
 Reducir la Frecuencia de Consultas: Agrupa las solicitudes o realiza consultas menos frecuentes si es posible.
 Uso Eficiente del Modelo: Aprovecha al máximo cada consulta para obtener toda la información necesaria en una sola llamada.
 
