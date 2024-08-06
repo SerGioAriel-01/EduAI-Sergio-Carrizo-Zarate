@@ -9,6 +9,20 @@ Muchos estudiantes enfrentan barreras debido a la falta de acceso a tutorías y 
 ## Propuesta de Solución
 La solución utiliza modelos de IA para generar explicaciones detalladas (GPT-4) y material visual (DALL-E). Esto permite ofrecer una ayuda personalizada y enriquecedora a los estudiantes.
 
+## Mejoras Basadas en Recomendaciones
+1. Revisión y Mejora de la Primera Entrega
+Revisa la documentación de tu primera entrega y actualízala según los conocimientos adquiridos y la retroalimentación recibida. Asegúrate de:
+
+Refinar la descripción del problema y la solución.
+Incorporar técnicas y métodos aprendidos en las últimas semanas.
+Mejorar la claridad y precisión en la presentación de la propuesta.
+
+2. Optimización de Consultas a la API
+Para reducir el costo y optimizar el uso de la API:
+
+Reducir la Frecuencia de Consultas: Agrupa las solicitudes o realiza consultas menos frecuentes si es posible.
+Uso Eficiente del Modelo: Aprovecha al máximo cada consulta para obtener toda la información necesaria en una sola llamada.
+
 ## Metodología
 1. Investigación y preparación del entorno.
 2. Implementación y prueba de los modelos de IA.
