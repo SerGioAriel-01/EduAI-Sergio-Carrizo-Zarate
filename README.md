@@ -31,5 +31,3 @@ Uso Eficiente del Modelo: Aprovecha al máximo cada consulta para obtener toda l
 - **Tecnologías**: API de OpenAI, React, Node.js
 - **Documentación**: Jupyter Notebook
 
-## Implementación
-El código y ejemplos de prompts están incluidos en la carpeta `src`. El Jupyter Notebook documenta el uso y resultados de los modelos.
