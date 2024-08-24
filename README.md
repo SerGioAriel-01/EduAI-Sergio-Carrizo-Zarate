@@ -44,7 +44,8 @@ tema = "la fotosíntesis"
 nivel = "secundario"
 ```
 ----------------------
-#### Prompt para Generar Imágenes El siguiente prompt se usa para crear una imagen que ilustre un concepto educativo:
+#### Prompt para Generar Imágenes: 
+**El siguiente prompt se usa para crear una imagen que ilustre un concepto educativo:**
 ```
 prompt = f"Crea un diagrama que ilustre {descripcion}"
 ```
