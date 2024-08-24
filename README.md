@@ -37,9 +37,10 @@ Descripción:
  {tema}: Sustituye por el tema sobre el que se desea una explicación (e.g., "la fotosíntesis").
  {nivel}: Especifica el nivel educativo del estudiante (e.g., "secundario").
 
-Ejemplo de uso:
+```Ejemplo de uso:
 tema = "la fotosíntesis"
 nivel = "secundario"
+```
 ----------------------
 #### Prompt para Generar Imágenes El siguiente prompt se usa para crear una imagen que ilustre un concepto educativo:
 prompt = f"Crea un diagrama que ilustre {descripcion}"
