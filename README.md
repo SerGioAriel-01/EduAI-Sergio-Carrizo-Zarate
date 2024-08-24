@@ -30,12 +30,14 @@ Uso Eficiente del Modelo: Aprovecha al máximo cada consulta para obtener toda l
 El prompt utilizado en este proyecto está diseñado para generar explicaciones detalladas y material visual educativo utilizando modelos de IA. La idea es ofrecer respuestas claras y gráficos ilustrativos sobre temas específicos, facilitando así el proceso de aprendizaje. 
 #### Prompt para Generar Explicaciones 
 **El siguiente prompt se usa para generar una explicación detallada sobre un tema educativo específico:** 
-
+```
 prompt = f"Genera una explicación detallada sobre {tema} para un estudiante de nivel {nivel}."
+```
 
-Descripción:
+```Descripción:
  {tema}: Sustituye por el tema sobre el que se desea una explicación (e.g., "la fotosíntesis").
  {nivel}: Especifica el nivel educativo del estudiante (e.g., "secundario").
+```
 
 ```Ejemplo de uso:
 tema = "la fotosíntesis"
