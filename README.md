@@ -56,19 +56,18 @@ Ejemplo de Uso:
 descripcion = "el proceso de la fotosíntesis"
 ```
 -----------------------
-Cómo Utilizar los Prompts
+#### Cómo Utilizar los Prompts
 Generar Explicaciones:
-Modifica el valor de {tema} y {nivel} según el tema y nivel deseado.
+Modifica el valor de **{tema}** y **{nivel}** según el tema y nivel deseado.
 Ejecuta el código para obtener una explicación generada por el modelo de IA.
 
 Generar Imágenes:
-Modifica el valor de {descripcion} para definir qué gráfico o diagrama deseas.
-
+Modifica el valor de **{descripcion}** para definir qué gráfico o diagrama deseas.
 Ejecuta el código para obtener una imagen generada por el modelo de IA.
 
 Resultados Esperados
 Explicaciones: Texto claro y detallado sobre el tema especificado.
-Imágenes: Diagramas o gráficos que ilustran el concepto descrito.
+Imágenes: Diagramas o gráficos que ilustran el concepto descrito en el prompt.
 
 ## Herramientas y Tecnologías
 - **Modelos de IA**: GPT-4 y DALL-E
