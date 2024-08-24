@@ -45,12 +45,16 @@ nivel = "secundario"
 ```
 ----------------------
 #### Prompt para Generar Imágenes El siguiente prompt se usa para crear una imagen que ilustre un concepto educativo:
+```
 prompt = f"Crea un diagrama que ilustre {descripcion}"
+```
 
-explicación:
+**explicación:**
+```
 {descripcion}: Sustituye por una descripción del concepto o proceso que se desea ilustrar (e.g., "el proceso de la fotosíntesis").
 Ejemplo de Uso:
 descripcion = "el proceso de la fotosíntesis"
+```
 -----------------------
 Cómo Utilizar los Prompts
 Generar Explicaciones:
