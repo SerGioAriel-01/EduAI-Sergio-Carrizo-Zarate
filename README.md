@@ -35,6 +35,10 @@ Descripción:
  {tema}: Sustituye por el tema sobre el que se desea una explicación (e.g., "la fotosíntesis").
  {nivel}: Especifica el nivel educativo del estudiante (e.g., "secundario").
 
+Ejemplo de uso:
+tema = "la fotosíntesis"
+nivel = "secundario"
+
 ## Herramientas y Tecnologías
 - **Modelos de IA**: GPT-4 y DALL-E
 - **Tecnologías**: API de OpenAI, React, Node.js
