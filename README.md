@@ -67,7 +67,7 @@ Modifica el valor de **{descripcion}** para definir qué gráfico o diagrama des
 
 Ejecuta el código para obtener una imagen generada por el modelo de IA.
 
-Resultados Esperados
+## Resultados Esperados:
 
 Explicaciones: Texto claro y detallado sobre el tema especificado.
 
